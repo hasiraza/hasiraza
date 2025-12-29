@@ -5,6 +5,18 @@ With strong skills in **Python, data visualization, statistics, and AI models**,
 
 ---
 
+## 📂 Projects Portfolio
+🎯 **20+ Professional Projects Completed**
+
+| Category | Count |
+|--------|-------|
+| 📊 Dashboards | **10** |
+| 🤖 AI Projects | **2** |
+| 📈 Data Science | **5** |
+| 🌐 Web APIs | **3** |
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haseeb-raza-71987a366/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hasi_choudhary511)
@@ -37,9 +49,9 @@ With strong skills in **Python, data visualization, statistics, and AI models**,
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-4CAF50?logo=databricks&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?logo=ai&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?logo=neuralnetwork&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-4CAF50)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD)
 
 ---
 
